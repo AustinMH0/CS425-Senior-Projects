@@ -1,6 +1,7 @@
 **Hardware:** Leap Motion Controller
 https://derivative.ca/UserGuide/Leap_Motion
 https://www.ultraleap.com/
+- $120 - $140
 
 **Example Video:**  
 https://youtu.be/RTlt_JewiNE?feature=shared
