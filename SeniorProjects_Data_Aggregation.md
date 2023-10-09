@@ -20,4 +20,6 @@ Leap Motion TOP - https://derivative.ca/UserGuide/Leap_Motion_TOP
 - Ability to view camera 0 or camera 1. Use 2 Leap Motion TOPs to view both cameras.
 - Some simple parameters to flip the images and enable Image Correction.
 
-  ** Eelke or tacavoli or their grad students **
+**Eelke or tacavoli or their grad students**
+
+**3D Tetris?**
