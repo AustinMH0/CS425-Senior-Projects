@@ -24,3 +24,4 @@ Leap Motion TOP - https://derivative.ca/UserGuide/Leap_Motion_TOP
 - Eelke or tacavoli or their grad students
 - 3D Tetris?
 - Voxel art
+- Michael Wilson for borrowing monitor
