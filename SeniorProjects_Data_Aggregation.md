@@ -21,7 +21,7 @@ Leap Motion TOP - https://derivative.ca/UserGuide/Leap_Motion_TOP
 - Some simple parameters to flip the images and enable Image Correction.
   
 **Notes from meeting**
-- Eelke or tacavoli or their grad students
+- Eelke or Tavakkoli or their grad students
 - 3D Tetris?
 - Voxel art
 - Michael Wilson for borrowing monitor
