@@ -7,3 +7,8 @@
 
 ### Initial Implementation:
 1. Graphical User Interface
+
+### Game Ideas:
+- Skeeball
+- Air Hockey
+- Arcade Basketball
