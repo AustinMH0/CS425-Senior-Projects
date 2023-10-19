@@ -1,6 +1,6 @@
 ### Software Requirements:
 - [Unity](https://unity.com/products/unity-student)
-- [Ultraleap Plugin for](https://developer.leapmotion.com/unity)
+- [Ultraleap Plugin for Unity](https://developer.leapmotion.com/unity)
 
 ### Hardware Requirements:
 - [Leap Motion Controller](https://leap2.ultraleap.com/leap-motion-controller-2/)
